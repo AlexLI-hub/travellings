@@ -91,8 +91,8 @@
 
 若您不清楚要在网站的哪个位置放置开往外链，可参考如下示例。
 
-![example1](/assets/img/example1.png)
-![example2](/assets/img/example2.png)
+![example1](/assets/example1.png)
+![example2](/assets/example2.png)
 
 :::
 
