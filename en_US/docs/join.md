@@ -69,8 +69,8 @@ To express your support for Travellings, you can place an extra Travelling logo 
 
 :::info Example
 
-![example1](https://www.travellings.cn/assets/example1.png)
-![example2](https://www.travellings.cn/assets/example2.png)
+![example1](/assets/example1.png)
+![example2](/assets/example2.png)
 
 :::
 

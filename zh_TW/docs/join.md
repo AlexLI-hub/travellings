@@ -91,8 +91,8 @@
 
 若您不清楚要在網站的哪個位置放置開往外鏈，可參考如下示例：
 
-![example1](https://www.travellings.cn/assets/example1.png)
-![example2](https://www.travellings.cn/assets/example2.png)
+![example1](/assets/example1.png)
+![example2](/assets/example2.png)
 
 :::
 
