@@ -14,7 +14,7 @@
 
 页面链接：`https://www.travellings.cn/plain.html`
 
-截图样例：![简洁版页面截图](/assets/img/plain-page.webp "简洁版页面截图")
+截图样例：![简洁版页面截图](/assets/img/plain-page.png "简洁版页面截图")
 
 ## 仿 CLI 页面
 
@@ -22,7 +22,7 @@
 
 页面链接：`https://www.travellings.cn/coder-1024.html` 
 
-截图样例：![仿 CLI 版页面截图](/assets/img/coder1024-page.webp "仿 CLI 版页面截图")  
+截图样例：![仿 CLI 版页面截图](/assets/img/coder1024-page.png "仿 CLI 版页面截图")  
 
 ## Go by Clouds 乘云而去
 
@@ -32,7 +32,7 @@
 
 页面链接：`https://www.travellings.cn/go-by-clouds.html` 
 
-截图样例：![Go by Clouds 乘云而去](/assets/img/go-by-clouds-page.webp "Go by Clouds 乘云而去")
+截图样例：![Go by Clouds 乘云而去](/assets/img/go-by-clouds-page.png "Go by Clouds 乘云而去")
 
 ## Robots 机器人聊天跳转
 
@@ -42,4 +42,4 @@
 
 页面连接：`https://www.travellings.cn/go-robots.html`
 
-截图样例：![Robots 机器人聊天跳转](/assets/img/go-robots-page.webp  "Robots 机器人聊天跳转")
+截图样例：![Robots 机器人聊天跳转](/assets/img/go-robots-page.png  "Robots 机器人聊天跳转")
